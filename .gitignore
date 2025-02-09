@@ -6,3 +6,10 @@ obj
 *.sym
 *.elf
 *.bin
+
+*-backups
+*.kicad_prl
+*.bak
+*.lck
+fp-info-cache
+gerber*
