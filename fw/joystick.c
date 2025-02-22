@@ -15,7 +15,7 @@ USB_ClassInfo_HID_Device_t Joystick_HID_Interface = {
     },
 };
 
-#define NES_CLOCK PF5
+#define NES_CLOCK PF7
 #define NES_LATCH PF6
 #define NES_DATA PF4
 #define LED_1 PB0
